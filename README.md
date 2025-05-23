@@ -1,9 +1,8 @@
 # Seat-Away
 
 
-<img src="Recordings/Image Sequence_001_0000.jpg" width =300 height = 550>
-<img src="Recordings/Image Sequence_002_0000.jpg" width =300 height = 550>
-<img src="Recordings/Image Sequence_003_0000.jpg" width =300 height = 550>
-<img src="Recordings/Image Sequence_004_0000.jpg" width =300 height = 550>
-<img src="Recordings/Image Sequence_005_0000.jpg" width =300 height = 550>
-<img src="Recordings/Image Sequence_006_0000.jpg" width =300 height = 550>
+<img src="Recordings/i0.jpg" width =300 height = 550>
+<img src="Recordings/i1.jpg" width =300 height = 550>
+<img src="Recordings/i2.jpg" width =300 height = 550>
+<img src="Recordings/i3.jpg" width =300 height = 550>
+<img src="Recordings/i4.jpg" width =300 height = 550>
